@@ -6,7 +6,7 @@ const Empleado = require('../src/models/Empleado');
 
 let mongooseInstance; 
 
-let employeeId = "68fc5b657c13a38e9cde6f55";
+let employeeId = "68fcf4dea072ccd1cd0c7645";
 
 
 describe("Pruebas de Integración de Empleados", () => {
